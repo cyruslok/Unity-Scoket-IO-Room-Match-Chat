@@ -1,0 +1,16 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/SocketJoinRoomsManager.cs">
+    <Files>
+      <File FileName="Assets/Scripts/SocketJoinRoomsManager.cs" Line="20" Column="42" />
+      <File FileName="Assets/Scripts/UIManager.cs" Line="1" Column="1" />
+      <File FileName="Assets/SocketIO/Readme.txt" Line="1" Column="19" />
+      <File FileName="Assets/SocketIO/Scripts/SocketIO/SocketIOComponent.cs" Line="107" Column="28" />
+      <File FileName="Assets/Resources/config/host.txt" Line="1" Column="20" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
